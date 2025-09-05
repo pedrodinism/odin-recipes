@@ -1,1 +1,2 @@
 # odin-recipes
+This project contains recipes of 3 famous portugueses dishes. There is a main screen with links to the 3 famous dishes. Every recipes has an image, a short description, the list of ingredients and the steps to make the dish
